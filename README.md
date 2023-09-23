@@ -57,7 +57,7 @@ print(slice) # Output: "slicing"
  ## LEARN SET
    learn about sets where in Python is a data type used to store a collection of unique elements in no particular order. Sets are unordered, meaning that the elements in the set do not have an index. In addition, sets can only store elements that are unique, so there is no duplication of elements in one set.
 Sets are used when it is necessary to store a unique set of data and does not care about the order of elements. This is very useful in various situations such as deduplicating data (intersection) or modeling many-to-many relationships between elements in a data set (union).
-## DICTIONARY
+## LEARN DICTIONARY
 dictionay is a collection of unordered key-value pairs and is used to store small to large data. Dictionaries are not included in the implementation of sequences, so they cannot be called with index sequences, for example trying with index[0] but the result is an error (key error) because there is no key (key) 0.
 ## LEARN CONDITIONAL EXPRESSION 
 1. **IF**(If Statement):
