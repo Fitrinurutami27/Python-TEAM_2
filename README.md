@@ -1,5 +1,5 @@
 # IT SPECIALIST : PYTHON
-  ## LEARN type data Python :
+  ## LEARN "TYPE DATA PYTHON" :
   1. string :
      The string data type is used to represent text or characters.Strings can contain letters, numbers, or special characters.
      **Example:** "Hello, World!".
@@ -15,7 +15,7 @@
   5. complex :
      The complex data type is used to represent complex numbers in mathematics, which consist of real and imaginary parts.
      **Example:** 1+2j, -3.5+4j.
-## LEARN "type data "LIST part 1"
+## LEARN "TYPE DATA LIST PART 1"
   The contents are a collection of ordered data. In the list the contents of the data types do not have to be the same.
 The way of writing is marked with square brackets […….]in python index starts from "0",there are index calls for positive numbers and there are calls for negative numbers which will appear from the last element.
     1. index call to [..]
@@ -29,7 +29,7 @@ The way of writing is marked with square brackets […….]in python index start
     Slicing is a very useful feature in the Python programming language which is used to extract portions or "slices" from sequences such as strings, lists, tuples, or even NumPy arrays. By using slicing, you can remove certain parts of the sequence without needing to change the original sequence.
     usually slicing use :
   [.... : ..... : ....]
-## LEARN "type data "LIST part 2"
+## LEARN "TYPE DATA LIST PART 2"
   in this part 2 list learn about len, append, extend, insert, remove, pop, index, function count, sort, reverse and x.reverse.
 1. len(iterable): The len function is used to return the length (number of elements) of an iterable such as a string, list, or tuple.
 2. append(element): The append method is used to add elements to the end of the list.
