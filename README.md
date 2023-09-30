@@ -1,4 +1,4 @@
-# IT SPECIALIST : PYTHON
+# IT SPECIALIST : PYTHON 1
   ## LEARN "TYPE DATA PYTHON" :
   1. string :
      The string data type is used to represent text or characters.Strings can contain letters, numbers, or special characters.
